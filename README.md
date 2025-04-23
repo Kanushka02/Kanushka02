@@ -16,14 +16,12 @@
 
 ## 🧑‍💻 **About Me**
 
-Hey there! I'm **Kaveesha**, an aspiring **Machine Learning Engineer** and **Backend Developer** with a deep passion for **Software Development**, **Analytics**,**Fundamentals** and **Artificial Intelligence**. 🌱
-I’m currently an undergraduate in Software Engineering at SLIIT.
-Right now, I'm diving into:  
-- **Linear Algebra for machine learning**, **Mern Stack**, **Java**,"Mathematics", and **Probability** to sharpen my skills.  
-- Collaborating on **Java Backend projects** and exploring the exciting world of **Machine Learning**. 🚀  
-
-
-📍 Based in **Sri Lanka**,love to solve real world problems**! 🌟  
+Aspiring Full Stack Developer | Java | Web | Backend | Machine Learning  
+🎓 BSc (Hons) in Information Technology @ SLIIT  
+💻 I love building cool projects, exploring new tech, and solving real-world problems.  
+💡 Backend Developer & Machine Learning Engineer with a deep passion for Software Development, Analytics, Fundamentals, and Artificial Intelligence  
+🌱 Currently exploring React, Node.js, and MongoDB  
+🧠 Always curious about how tech can make life smarter and easier
 
 ---
 
