@@ -17,11 +17,11 @@
 ## 🧑‍💻 **About Me**
 
 Aspiring Full Stack Developer | Java | Web | Backend | Machine Learning  
-🎓  **Undergraduate** Software Engineering student. **@ SLIIT**  
-💻 I love building *cool projects, exploring new tech, and solving real-world problems*.  
-💡 **Backend Developer** & **Machine Learning Engineer** with a deep passion for *Software Development*, *Analytics*, *Fundamentals*, and *Artificial Intelligence*  
-🌱 Currently exploring **React**, **Node.js**, **and** **MongoDB**  
-🧠 Always curious about **how** **tech** **can** **make** **life** **smarter** **and** **easier.**
+-🎓  **Undergraduate** Software Engineering student. **@ SLIIT**  
+-💻 I love building *cool projects, exploring new tech, and solving real-world problems*.  
+-💡 **Backend Developer** & **Machine Learning Engineer** with a deep passion for *Software Development*, *Analytics*, *Fundamentals*, and *Artificial Intelligence*  
+-🌱 Currently exploring **React**, **Node.js**, **and** **MongoDB**  
+-🧠 Always curious about **how** **tech** **can** **make** **life** **smarter** **and** **easier.**
 
 ---
 
