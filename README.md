@@ -16,6 +16,10 @@
 
 ## 🧑‍💻 **About Me**
 
+<div align="left">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
 **Aspiring Full Stack Developer | Java | Web | Backend | Machine Learning**
 - 🎓  **Undergraduate** Software Engineering student. **@ SLIIT**  
 - 💻 I love building *cool projects, exploring new tech, and solving real-world problems*.  
@@ -26,6 +30,11 @@
 ---
 
 ## 🌐 **Connect with Me**:
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/kanushka-kahakotuwa-458764258/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
