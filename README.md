@@ -16,9 +16,7 @@
 
 ## 🧑‍💻 **About Me**
 
-<div align="left">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+
 
 **Aspiring Full Stack Developer | Java | Web | Backend | Machine Learning**
 - 🎓  **Undergraduate** Software Engineering student. **@ SLIIT**  
@@ -26,6 +24,49 @@
 - 💡 **Backend Developer** & **Machine Learning Engineer** with a deep passion for *Software Development*, *Analytics*, *Fundamentals*, and     *Artificial Intelligence*  
 - 🌱 Currently exploring **React**, **Node.js**, **and** **MongoDB**  
 - 🧠 Always curious about **how** **tech** **can** **make** **life** **smarter** **and** **easier.**
+
+---
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanushka02&theme=radical&show_icons=true&count_private=true" />
+        <br><br>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kanushka's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanushka02&theme=radical&hide_border=false" />
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanushka02&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
+  <!--- stats (end) -->
+
+  <!--- trophy (start) -->
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Kanushka02&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+  </div>
+</p>
+
+---
+
+## 📊 GitHub Contributions:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanushka02&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/it21303302b/it21303302b/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 ---
 
@@ -102,7 +143,7 @@
 
 
   <!-- Most Used Languages with cache refresh -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshapasan2002&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Most Used Languages" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanushka02&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Most Used Languages" style="margin: 10px;" />
 </p>
 
 
