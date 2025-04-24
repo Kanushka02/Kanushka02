@@ -26,15 +26,20 @@
 ---
 
 ## 🌐 **Connect with Me**:
-<p align="center">
-  <a href="/www.linkedin.com/in/kanushka-kahakotuwa-458764258/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+<div align="left">
+  <a href="www.linkedin.com/in/kanushka-kahakotuwa-458764258" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  
- <a href="mailto:kanushkakahakotuwa2001@gmail.com?subject=Hello Kaveesha&body=Hi Kaveesha," target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="50" />
-</a>
-</p>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.facebook.com/profile.php?id=100009872443039" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="mailto:kanushkakahakotuwa2001@gmail.com?subject=Hello Kaveesha&body=Hi Kanushka," target="_blank" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 ---
 
