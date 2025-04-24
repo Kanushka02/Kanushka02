@@ -27,18 +27,18 @@
 
 ## 🌐 **Connect with Me**:
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaveesha-athukorala-718388179/" target="_blank">
+  <a href="www.linkedin.com/in/kanushka-kahakotuwa-458764258" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
   </a>
   
- <a href="mailto:kaveeshatech@gmail.com?subject=Hello Kaveesha&body=Hi Kaveesha," target="_blank">
+ <a href="mailto:kanushkakahakotuwa2001@gmail.com?subject=Hello Kaveesha&body=Hi Kaveesha," target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="50" />
 </a>
 </p>
 
 ---
 
-## 🛠 **Languages and Tools**:
+## 🛠 **Languages,Tech Stack and Tools**:
 <p align="center">
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" height="60" style="margin: 10px;" />
