@@ -27,7 +27,7 @@
 
 ## 🌐 **Connect with Me**:
 <div align="center">
-  <a href="www.linkedin.com/in/kanushka-kahakotuwa-458764258/" target="_blank">
+  <a href="https://www.linkedin.com/in/kanushka-kahakotuwa-458764258/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/Keenush_k_?fbclid=IwY2xjawJ2vjFleHRuA2FlbQIxMABicmlkETFIeUN5enpETUJEdzRab0F3AR7UcTRQFdYJyekUT6yTlLZDP_T9cy0dbK6z7T0C92nvO4cAKyh77X1AAgN-Ng_aem_NeVjTQpaYPkSDATFb1aW6A" target="_blank">
