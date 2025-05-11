@@ -66,10 +66,20 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
 <!--- stats & Trophy (start) -->
-![](https://github-readme-stats.vercel.app/api?username=Kanushka02&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kanushka02&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanushka02&theme=radical&layout=compact&langs_count=10)
-
+<p align="center">
+  <!--- stats (start) -->
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanushka02&theme=radical&show_icons=true&count_private=true" />
+        <br><br>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kanushka's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanushka02&theme=radical&hide_border=false" />
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanushka02&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
   <!--- stats (end) -->
 
   <!--- trophy (start) -->
